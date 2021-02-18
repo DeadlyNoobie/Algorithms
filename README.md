@@ -7,4 +7,4 @@ This repo contains algorithms and the respective references and codes if possibl
 
 ### [Sorting Algorithms](https://github.com/DeadlyNoobie/Algorithms/tree/main/Sorting_Algorithms)
 
-  * [Insertion Sort]()
+  * [Insertion Sort](https://github.com/DeadlyNoobie/Algorithms/tree/main/Sorting_Algorithms/Insertion_Sort)
